@@ -74,7 +74,7 @@ Install the required libraries by running
 ## Demo
 Click on this screen to see a video with a demo of how this app works.
 
-[![Board_game_colection_scraper_app]([http://img.youtube.com/vi/ffNtDCFeqZA/0.jpg)](http://www.youtube.com/watch?v=ffNtDCFeqZA](https://youtu.be/wHLC_9bBoXI))
+[![Board_game_colection_scraper_app](https://img.youtube.com/vi/wHLC_9bBoXI/0.jpg)](https://www.youtube.com/watch?v=wHLC_9bBoXI)
 
 ## Contributions
 
