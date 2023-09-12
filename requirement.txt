@@ -1,0 +1,6 @@
+json
+os
+re
+tkinter
+pandas
+beautifulsoup4

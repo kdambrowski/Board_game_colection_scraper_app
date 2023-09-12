@@ -1,0 +1,7 @@
+BASE_PAGE_ADDRESS = 'https://boardgamegeek.com'
+BGG_USER_COLLECTION_URL = ''
+HTML_PARSER = 'html.parser'
+GAME_LIST_CSV_FILENAME = 'game_data.csv'
+CSV_DESTINATION_PATH = ''
+WINDOW_WIDTH = 480
+WINDOW_HEIGHT = int(WINDOW_WIDTH * 9 / 16)
